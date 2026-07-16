@@ -1,0 +1,4 @@
+Rotation_ID	Student_Name	Medical_School_Affiliation	Assigned_Specialty_Track	Encounter_Count	Assigned_Attending_MD	Validated_Clinical_Hours	Milestone_Status
+ROT-26-01	A. Vance	University of Washington Med	Naturopathic Oncology	45	Dr. Hofstad	80.0	COMPLETED
+ROT-26-02	M. Peters	KU School of Medicine	Pathology Diagnostics	32	Dr. Hofstad	60.0	IN_PROGRESS
+ROT-26-03	K. Patel	Seattle Bio-Med PostDoc	Regenerative Transport	12	Dr. Consult_B	30.0	IN_PROGRESS
