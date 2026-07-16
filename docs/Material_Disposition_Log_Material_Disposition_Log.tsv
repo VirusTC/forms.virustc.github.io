@@ -1,0 +1,5 @@
+Material ID	Arrival Date	Carrier / Invoice ID	Supplier Name	Component Type	Supplier Lot Number	Received Qty (kg)	Initial QC Status	Temp Upon Receipt (C)	Quarantine Release Date	Approved Qty (kg)	Rejected Qty (kg)	Internal Batch Allocation	Date Deployed / Disposed	Final Disposition Status	Certificate of Analysis (CoA) Link
+MAT-RAW-001	2026-07-01	DHL-9982311	Organic Farms NW	Crop Base (Carrot)	CR-2026-X11	500	Passed Inspection	5.2	2026-07-03	500	0	VERDURA-BATCH-09A	2026-07-10	Fully Deployed to Production	S:\SupplyChain\CoA\Carrots_CR2026X11.pdf
+MAT-RAW-002	2026-07-05	FEDEX-44129	Heritage Grains	Matrix Base (Blue Corn)	BC-773-RE1	250	Under Review	18.5	N/A	0	0	N/A	N/A	Quarantined - Awaiting Testing	S:\SupplyChain\CoA\Corn_BC773RE1.pdf
+MAT-RAW-003	2026-07-08	DHL-9984400	NutriSupply Corp	Mineral Base (Iron Source)	FE-NUT-551	50	Damaged Packaging	22.1	N/A	0	50	N/A	2026-07-09	Rejected - Returned to Vendor	S:\SupplyChain\CoA\Iron_FENUT551.pdf
+MAT-RAW-004	2026-07-12	LOCAL-DELIV	API Apiaries	Plasma Substitute (Beeswax)	BW-002-AM	100	Passed Inspection	20.3	2026-07-13	100	0	VERDURA-BATCH-10B	N/A	Stored - Approved for Use	S:\SupplyChain\CoA\Wax_BW002AM.pdf

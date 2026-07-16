@@ -1,0 +1,8 @@
+Form_ID	System_Loop_Context	Data_Element_Label	System_Data_Type	Encryption_Standard	Mandatory_Field_Flag
+HIPAA-01	Registry_Privacy	Patient_MRN_Hash	Hexadecimal_64	AES-256-GCM	TRUE
+HIPAA-02	Registry_Privacy	Botanical_Lot_ID	Alphanumeric	None_Public_Log	TRUE
+EDI-2010AA	Billing_Provider	NPI_Number	Numeric_10	None_Standard	TRUE
+EDI-2300	Claim_Condition	ICD_10_Code	Alphanumeric_6	None_Standard	TRUE
+EDI-2400	Service_Line	HCPCS_Procedure	Alphanumeric_5	None_Standard	TRUE
+HL7-MSH	Interface_Routing	Sending_Facility	String_20	TLS-1.3_Wrap	TRUE
+HL7-RXO	Medication_Order	Dose_Measurement	Numeric_Value	None_Standard	TRUE

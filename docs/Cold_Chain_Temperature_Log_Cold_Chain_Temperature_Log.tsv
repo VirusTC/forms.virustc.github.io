@@ -1,0 +1,6 @@
+Log ID	Date Logged	Time Logged	Staff Initials	Unit Identifier	Storage Zone Type	Target Temp Range (C)	Current Temp (C)	Temp Status	Deviation Logged? (Y/N)	Deviation Incident ID	Corrective Action Taken	Power Source Status	Sensor Battery Level	Weekly Verification Signed?	Technical File Hyperlink
+COLD-001	2026-07-13	8:00	AMH	REF-01-MAIN	Food-Grade Storage (Carrot Base)	2.0 to 6.0	4.2	Normal	N	N/A	None required. Unit stable.	AC Grid	94%	Y	S:\Facilities\ColdChain\REF01\2026_July.pdf
+COLD-002	2026-07-13	12:00	AMH	REF-01-MAIN	Food-Grade Storage (Carrot Base)	2.0 to 6.0	5.9	Near Upper Limit	N	N/A	Door verified sealed; compressor active.	AC Grid	94%	Y	S:\Facilities\ColdChain\REF01\2026_July.pdf
+COLD-003	2026-07-13	16:00	RCO	REF-01-MAIN	Food-Grade Storage (Carrot Base)	2.0 to 6.0	6.8	Excursion - High	Y	DEV-2026-089	Transferred inventory to backup Unit REF-02.	AC Grid	93%	Y	S:\Facilities\ColdChain\DEV\DEV_2026_089.pdf
+COLD-004	2026-07-13	8:00	JST	FRZ-02-BIO	Deep Freeze (Lipid Matrices)	-25.0 to -15.0	-19.5	Normal	N	N/A	None required. Unit stable.	AC Grid	88%	Y	S:\Facilities\ColdChain\FRZ02\2026_July.pdf
+COLD-005	2026-07-13	16:00	RCO	REF-02-BU	Backup Unit (Empty / Ready)	2.0 to 6.0	3.9	Normal	N	N/A	Received emergency transfer from REF-01.	AC Grid	99%	Y	S:\Facilities\ColdChain\REF02\2026_July.pdf

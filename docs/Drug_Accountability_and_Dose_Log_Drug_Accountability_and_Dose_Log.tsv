@@ -1,0 +1,6 @@
+Transaction ID	Date Logged	Time Logged	Staff Initials	Product Name / Code	Manufacturer Lot Number	Expiration Date	Transaction Type	Quantity In (Units)	Quantity Out (Units)	Running Balance	Patient ID (if dispensed)	Protocol Dose Metric	Disposal Witness Initials	Storage Temp Verification	Comments / Notes
+TXN-1001	2026-03-10	9:15	AMH	VerduraRx	Lot-2026A-01	2027-03-10	Received from Mfg	50	0	50	N/A	N/A	N/A	4.1 C - Compliant	Initial shipment delivery receipt.
+TXN-1002	2026-03-12	14:30	RCO	VerduraRx	Lot-2026A-01	2027-03-10	Dispensed to Patient	0	2	48	PAT-001	500 mL FWB Base	N/A	3.8 C - Compliant	Dose administered per IRB protocol.
+TXN-1003	2026-03-15	11:00	AMH	Lipid-Capsule-Alpha	Lot-LC-99X	2026-09-15	Received from Mfg	20	0	20	N/A	N/A	N/A	21.5 C - Compliant	Ambient lipid matrices delivery.
+TXN-1004	2026-03-18	16:45	JST	VerduraRx	Lot-2026A-01	2027-03-10	Product Destruction	0	1	47	N/A	N/A	KLP	Room Temp - Waste	Expired or compromised unit destroyed.
+TXN-1005	2026-03-20	8:00	RCO	Lipid-Capsule-Alpha	Lot-LC-99X	2026-09-15	Dispensed to Patient	0	5	15	PAT-003	250 mg Capsule	N/A	20.8 C - Compliant	Dispensed for compounding.

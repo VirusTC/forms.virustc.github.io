@@ -1,0 +1,4 @@
+Therapeutic_Code	HCPCS_Equivalent	NDC_Fulfillment_String	Unit_Dosage_Weight	Internal_Logistics_Tab	Material_Class
+LYM-450-MAT	S5190	71450-0450-01	450mg	Material_Disposition_Log	Whole-Food_Extract
+NMX-1500-MAT	S5191	71450-1500-02	1500mg	Drug_Accountability_Log	Organic_Plant_Biofluid
+BMX-800-MAT	S5192	71450-0800-03	800mg	Material_Disposition_Log	Synthetic_Marrow_Matrix
