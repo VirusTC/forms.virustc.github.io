@@ -1,0 +1,4 @@
+Prescription_ID	Physician_NPI	Physician_Specialty	Patient_Code	Target_Pathogen	Formula_Selected	Dosage_Regimen	FDA_Access_Key
+TX-88201	1093882711	Oncology	PT-9921	Dengue Virus	Vendula-1600mg	1 tab PO BID	IND-EAP-2026-A
+TX-88202	1445210928	Integrative	PT-4042	Acute Pathogen	Ectogano-2oz	2oz Liquid QD	IND-EAP-2026-B
+TX-88203	1851229304	Regenerative	PT-1150	Unstable Protein	Pefkon-240mg	240mg PO TID	IND-EAP-2026-C
